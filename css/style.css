@@ -1,0 +1,43 @@
+#nav{background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    padding-top:0px;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding: 5;
+    display: inline;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    color: white;
+    margin: 5px;
+}
+#image{
+    background-color: yellow;
+    text-align: center;
+    padding: 5px;
+    padding-top: 0px;
+    margin-top: 15px;
+}
+#video{
+    background-color: red;
+    text-align: left;
+    margin-top: 15;
+    padding-top: 0;
+    padding: 0px;
+}
+#audio{
+    background-color: green;
+    text-align: right;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
